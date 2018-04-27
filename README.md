@@ -5,7 +5,33 @@ Dataset został okrojony do około 2 500 000 rekordów przy liczbie like'ów od 
 
 Link do datasetu: https://drive.google.com/file/d/1tfq60WbX0TrGLghR7bwLzyCL1wh548bU/view?usp=sharing
 
+Informacje o komputerze na którym były wykonywane obliczenia:
 
+| Nazwa                 | Wartość    |
+|-----------------------|------------|
+| System operacyjny     | Windows 7 x64 |
+| Procesor              |  |
+| Liczba rdzeni         |  |
+| Pamięć                |  |
+| Dysk                  |  |
+
+
+___________________
+#### MongoDB
+
+- wersja: Windows Server 2008 R2 64-bit and later, with SSL support x64
+
+Instalator do pobrania ze [strony](https://www.mongodb.com/download-center#community) 
+Po instalacji, do uruchomienia MongoDB nalezy użyć CMD:
+
+ ``` mongod```
+
+
+___________________
+Import danych do bazy:
+
+ ``` mongoimport --db youtube --collection youtube --file dataset.json```
+_______________
 
 Przykład wyglądu datasetu z programu robo 3t:
 ![1](https://i.imgur.com/azPTkro.png)
