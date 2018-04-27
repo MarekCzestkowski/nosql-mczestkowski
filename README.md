@@ -10,10 +10,10 @@ Informacje o komputerze na którym były wykonywane obliczenia:
 | Nazwa                 | Wartość    |
 |-----------------------|------------|
 | System operacyjny     | Windows 7 x64 |
-| Procesor              |  |
-| Liczba rdzeni         |  |
-| Pamięć                |  |
-| Dysk                  |  |
+| Procesor              | Intel Core i5 @3,5 GHz |
+| Liczba rdzeni         | 4 |
+| Pamięć                | 8 Gb |
+| Dysk                  | SSD/HDD |
 
 
 ___________________
