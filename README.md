@@ -13,7 +13,7 @@ Informacje o komputerze na którym były wykonywane obliczenia:
 | Procesor              | Intel Core i5 @3,5 GHz |
 | Liczba rdzeni         | 4 |
 | Pamięć                | 8 Gb |
-| Dysk                  | SSD/HDD |
+| Dysk                  | HDD |
 
 
 ___________________
